@@ -1,0 +1,13 @@
+C:\Users\Abdulquddus Nuhu\source\repos\HNG_Intership\HNGBackendThree\src\Hng.Domain\bin\Debug\net8.0\Hng.Domain.deps.json
+C:\Users\Abdulquddus Nuhu\source\repos\HNG_Intership\HNGBackendThree\src\Hng.Domain\bin\Debug\net8.0\Hng.Domain.dll
+C:\Users\Abdulquddus Nuhu\source\repos\HNG_Intership\HNGBackendThree\src\Hng.Domain\bin\Debug\net8.0\Hng.Domain.pdb
+C:\Users\Abdulquddus Nuhu\source\repos\HNG_Intership\HNGBackendThree\src\Hng.Domain\obj\Debug\net8.0\Hng.Domain.csproj.AssemblyReference.cache
+C:\Users\Abdulquddus Nuhu\source\repos\HNG_Intership\HNGBackendThree\src\Hng.Domain\obj\Debug\net8.0\Hng.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdulquddus Nuhu\source\repos\HNG_Intership\HNGBackendThree\src\Hng.Domain\obj\Debug\net8.0\Hng.Domain.AssemblyInfoInputs.cache
+C:\Users\Abdulquddus Nuhu\source\repos\HNG_Intership\HNGBackendThree\src\Hng.Domain\obj\Debug\net8.0\Hng.Domain.AssemblyInfo.cs
+C:\Users\Abdulquddus Nuhu\source\repos\HNG_Intership\HNGBackendThree\src\Hng.Domain\obj\Debug\net8.0\Hng.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Abdulquddus Nuhu\source\repos\HNG_Intership\HNGBackendThree\src\Hng.Domain\obj\Debug\net8.0\Hng.Domain.sourcelink.json
+C:\Users\Abdulquddus Nuhu\source\repos\HNG_Intership\HNGBackendThree\src\Hng.Domain\obj\Debug\net8.0\Hng.Domain.dll
+C:\Users\Abdulquddus Nuhu\source\repos\HNG_Intership\HNGBackendThree\src\Hng.Domain\obj\Debug\net8.0\refint\Hng.Domain.dll
+C:\Users\Abdulquddus Nuhu\source\repos\HNG_Intership\HNGBackendThree\src\Hng.Domain\obj\Debug\net8.0\Hng.Domain.pdb
+C:\Users\Abdulquddus Nuhu\source\repos\HNG_Intership\HNGBackendThree\src\Hng.Domain\obj\Debug\net8.0\ref\Hng.Domain.dll

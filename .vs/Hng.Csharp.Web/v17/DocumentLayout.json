@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abdulquddus Nuhu\\Desktop\\HNGBackendThree\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9774A8A9-24E7-4DF0-99FE-28377C71A396}|src\\Hng.Web\\Hng.Web.csproj|c:\\users\\abdulquddus nuhu\\desktop\\hngbackendthree\\src\\hng.web\\hng.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9774A8A9-24E7-4DF0-99FE-28377C71A396}|src\\Hng.Web\\Hng.Web.csproj|solutionrelative:src\\hng.web\\hng.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9774A8A9-24E7-4DF0-99FE-28377C71A396}|src\\Hng.Web\\Hng.Web.csproj|c:\\users\\abdulquddus nuhu\\desktop\\hngbackendthree\\src\\hng.web\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9774A8A9-24E7-4DF0-99FE-28377C71A396}|src\\Hng.Web\\Hng.Web.csproj|solutionrelative:src\\hng.web\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9774A8A9-24E7-4DF0-99FE-28377C71A396}|src\\Hng.Web\\Hng.Web.csproj|c:\\users\\abdulquddus nuhu\\desktop\\hngbackendthree\\src\\hng.web\\controllers\\permissionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9774A8A9-24E7-4DF0-99FE-28377C71A396}|src\\Hng.Web\\Hng.Web.csproj|solutionrelative:src\\hng.web\\controllers\\permissionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9774A8A9-24E7-4DF0-99FE-28377C71A396}|src\\Hng.Web\\Hng.Web.csproj|c:\\users\\abdulquddus nuhu\\desktop\\hngbackendthree\\src\\hng.web\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9774A8A9-24E7-4DF0-99FE-28377C71A396}|src\\Hng.Web\\Hng.Web.csproj|solutionrelative:src\\hng.web\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9774A8A9-24E7-4DF0-99FE-28377C71A396}|src\\Hng.Web\\Hng.Web.csproj|c:\\users\\abdulquddus nuhu\\desktop\\hngbackendthree\\src\\hng.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9774A8A9-24E7-4DF0-99FE-28377C71A396}|src\\Hng.Web\\Hng.Web.csproj|solutionrelative:src\\hng.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9774A8A9-24E7-4DF0-99FE-28377C71A396}|src\\Hng.Web\\Hng.Web.csproj|c:\\users\\abdulquddus nuhu\\desktop\\hngbackendthree\\src\\hng.web\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9774A8A9-24E7-4DF0-99FE-28377C71A396}|src\\Hng.Web\\Hng.Web.csproj|solutionrelative:src\\hng.web\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD38EF7C-7578-4909-93AB-7200D8C50B71}|src\\Hng.Infrastructure\\Hng.Infrastructure.csproj|c:\\users\\abdulquddus nuhu\\desktop\\hngbackendthree\\src\\hng.infrastructure\\context\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD38EF7C-7578-4909-93AB-7200D8C50B71}|src\\Hng.Infrastructure\\Hng.Infrastructure.csproj|solutionrelative:src\\hng.infrastructure\\context\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9774A8A9-24E7-4DF0-99FE-28377C71A396}|src\\Hng.Web\\Hng.Web.csproj|c:\\users\\abdulquddus nuhu\\desktop\\hngbackendthree\\src\\hng.web\\serviceextensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9774A8A9-24E7-4DF0-99FE-28377C71A396}|src\\Hng.Web\\Hng.Web.csproj|solutionrelative:src\\hng.web\\serviceextensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulquddus Nuhu\\Desktop\\HNGBackendThree\\src\\Hng.Web\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "src\\Hng.Web\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Abdulquddus Nuhu\\Desktop\\HNGBackendThree\\src\\Hng.Web\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "src\\Hng.Web\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvxQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T14:36:15.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PermissionsController.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulquddus Nuhu\\Desktop\\HNGBackendThree\\src\\Hng.Web\\Controllers\\PermissionsController.cs",
+              "RelativeDocumentMoniker": "src\\Hng.Web\\Controllers\\PermissionsController.cs",
+              "ToolTip": "C:\\Users\\Abdulquddus Nuhu\\Desktop\\HNGBackendThree\\src\\Hng.Web\\Controllers\\PermissionsController.cs",
+              "RelativeToolTip": "src\\Hng.Web\\Controllers\\PermissionsController.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAkwFgAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T14:29:11.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulquddus Nuhu\\Desktop\\HNGBackendThree\\src\\Hng.Web\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "src\\Hng.Web\\Controllers\\RolesController.cs",
+              "ToolTip": "C:\\Users\\Abdulquddus Nuhu\\Desktop\\HNGBackendThree\\src\\Hng.Web\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "src\\Hng.Web\\Controllers\\RolesController.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAADwv1QAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T14:28:08.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlogsController.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulquddus Nuhu\\Desktop\\HNGBackendThree\\src\\Hng.Web\\Controllers\\BlogsController.cs",
+              "RelativeDocumentMoniker": "src\\Hng.Web\\Controllers\\BlogsController.cs",
+              "ToolTip": "C:\\Users\\Abdulquddus Nuhu\\Desktop\\HNGBackendThree\\src\\Hng.Web\\Controllers\\BlogsController.cs",
+              "RelativeToolTip": "src\\Hng.Web\\Controllers\\BlogsController.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAADwv1YAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T14:25:50.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hng.Web.csproj",
+              "DocumentMoniker": "C:\\Users\\Abdulquddus Nuhu\\Desktop\\HNGBackendThree\\src\\Hng.Web\\Hng.Web.csproj",
+              "RelativeDocumentMoniker": "src\\Hng.Web\\Hng.Web.csproj",
+              "ToolTip": "C:\\Users\\Abdulquddus Nuhu\\Desktop\\HNGBackendThree\\src\\Hng.Web\\Hng.Web.csproj",
+              "RelativeToolTip": "src\\Hng.Web\\Hng.Web.csproj",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-13T14:23:44.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulquddus Nuhu\\Desktop\\HNGBackendThree\\src\\Hng.Infrastructure\\Context\\MyDBContext.cs",
+              "RelativeDocumentMoniker": "src\\Hng.Infrastructure\\Context\\MyDBContext.cs",
+              "ToolTip": "C:\\Users\\Abdulquddus Nuhu\\Desktop\\HNGBackendThree\\src\\Hng.Infrastructure\\Context\\MyDBContext.cs",
+              "RelativeToolTip": "src\\Hng.Infrastructure\\Context\\MyDBContext.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T09:49:34.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulquddus Nuhu\\Desktop\\HNGBackendThree\\src\\Hng.Web\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Hng.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\Abdulquddus Nuhu\\Desktop\\HNGBackendThree\\src\\Hng.Web\\Program.cs",
+              "RelativeToolTip": "src\\Hng.Web\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAiwAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T09:49:18.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulquddus Nuhu\\Desktop\\HNGBackendThree\\src\\Hng.Web\\ServiceExtensions\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "src\\Hng.Web\\ServiceExtensions\\ServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\Abdulquddus Nuhu\\Desktop\\HNGBackendThree\\src\\Hng.Web\\ServiceExtensions\\ServiceExtensions.cs",
+              "RelativeToolTip": "src\\Hng.Web\\ServiceExtensions\\ServiceExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T09:49:05.153Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
